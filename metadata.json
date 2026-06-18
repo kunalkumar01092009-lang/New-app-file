@@ -1,0 +1,6 @@
+{
+  "name": "JSP",
+  "description": "JEE Selector Party (JSP) - A high-performance tracking and mastery toolkit for JEE Mains and Advanced aspirants, including syllabus checkpoints, study hour tickers, test analysis graphs, and anti-PMO dopamine recoveries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
